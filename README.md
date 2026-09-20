@@ -362,7 +362,4 @@ Benchmarks devem ser comparados sob condições controladas.
 O projeto utiliza diretamente o trabalho do CachyOS e do Linux upstream. Os repositórios oficiais continuam sendo a referência para código-fonte, empacotamento e alterações do kernel.
 
 ## Licenciamento
-
-Nenhuma licença específica para **este repositório** é declarada pelo script. Se o autor do projeto quiser permitir redistribuição clara do código do repositório, adicione um arquivo `LICENSE` com a licença escolhida.
-
-Os componentes externos permanecem sujeitos às respectivas licenças upstream.
+o projeto usa a licença GNU General Public License v3.0
