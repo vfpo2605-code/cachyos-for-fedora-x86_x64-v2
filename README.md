@@ -1,5 +1,3 @@
-# cachyos-for-fedora-x86_x64-v2
-
 # CachyOS Kernel x86-64-v2 Builder para Fedora
 
 ![Fedora](https://img.shields.io/badge/Fedora-44-51a2da?logo=fedora&logoColor=white)
